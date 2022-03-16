@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/41d67ad13983423cbba737e3d8bcb7ca/artifacts
+end_time: 1647437886667
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 41d67ad13983423cbba737e3d8bcb7ca
+run_uuid: 41d67ad13983423cbba737e3d8bcb7ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1647437884729
+status: 3
+tags: []
+user_id: siddhant.sharma
